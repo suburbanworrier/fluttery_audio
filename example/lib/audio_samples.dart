@@ -1,8 +1,6 @@
 final audioUrls = [
-  "https://api.soundcloud.com/tracks/266891990/stream?secret_token=s-tj3IS&client_id=LBCcHmRB8XSStWL6wKH2HPACspQlXg2P",
-  "https://api.soundcloud.com/tracks/260578593/stream?secret_token=s-tj3IS&client_id=LBCcHmRB8XSStWL6wKH2HPACspQlXg2P",
-  "https://api.soundcloud.com/tracks/258735531/stream?secret_token=s-tj3IS&client_id=LBCcHmRB8XSStWL6wKH2HPACspQlXg2P",
-  "https://api.soundcloud.com/tracks/9540779/stream?secret_token=s-tj3IS&client_id=LBCcHmRB8XSStWL6wKH2HPACspQlXg2P",
-  "https://api.soundcloud.com/tracks/9540352/stream?secret_token=s-tj3IS&client_id=LBCcHmRB8XSStWL6wKH2HPACspQlXg2P",
-  "https://api.soundcloud.com/tracks/295692063/stream?secret_token=s-tj3IS&client_id=LBCcHmRB8XSStWL6wKH2HPACspQlXg2P",
+  "https://archive.org/download/TheChroniclesOfNarnia-PrinceCaspianByCSLewis/1%20-%20Prince%20Caspian%20by%20C%20S%20Lewis%20.mp3",
+  "https://archive.org/download/TheChroniclesOfNarnia-PrinceCaspianByCSLewis/2%20-%20Prince%20Caspian%20by%20C%20S%20Lewis%20.mp3",
+  "https://archive.org/download/TheChroniclesOfNarnia-PrinceCaspianByCSLewis/3%20-%20Prince%20Caspian%20by%20C%20S%20Lewis%20.mp3",
+  "https://archive.org/download/TheChroniclesOfNarnia-PrinceCaspianByCSLewis/4%20-%20Prince%20Caspian%20by%20C%20S%20Lewis%20.mp3"
 ];
