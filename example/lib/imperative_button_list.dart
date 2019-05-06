@@ -22,8 +22,7 @@ class _ImperativeButtonListScreenState extends State<ImperativeButtonListScreen>
   initState() {
     super.initState();
 
-    audioPlayer = FlutteryAudio.audioPlayer();
-    audioPlayer.stop();
+    audioPlayer = FlutteryAudio.audioPlayer()..stop();
     audioPlayer.addListener(AudioPlayerListener(onAudioLengthChanged: (Duration audioLength) {
       setState(() {
         this.audioLength = audioLength;
